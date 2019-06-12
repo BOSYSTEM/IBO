@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "cmath": "cpp",
+        "istream": "cpp",
+        "optional": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "variant": "cpp",
+        "typeinfo": "cpp"
+    }
+}
